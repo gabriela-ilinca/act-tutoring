@@ -59,7 +59,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: schedule
-    id: schedule
+    #id: schedule
     content:
       title: Schedule
       text: Build your site with blocks 🧱
@@ -83,7 +83,7 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    #id: solutions
     content:
       items:
         - title: Build your future-proof website
