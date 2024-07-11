@@ -58,10 +58,10 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
+  - block: schedule
+    id: schedule
     content:
-      title: Features
+      title: Schedule
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO
